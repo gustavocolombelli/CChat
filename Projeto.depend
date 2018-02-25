@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1519431677 source:c:\users\gustavo colombelli\desktop\projeto\main.c
+	"conexao.h"
+
+1519431937 source:c:\users\gustavo colombelli\desktop\projeto\conexao.c
+	"conexao.h"
+
+1519432204 c:\users\gustavo colombelli\desktop\projeto\conexao.h
+	<stdio.h>
+	<windows.h>
+	<winsock2.h>
+	<mysql.h>
+
+1519432268 source:c:\users\gustavo colombelli\desktop\cchat\conexao.c
+	"conexao.h"
+
+1519432204 c:\users\gustavo colombelli\desktop\cchat\conexao.h
+	<stdio.h>
+	<windows.h>
+	<winsock2.h>
+	<mysql.h>
+
+1519431677 source:c:\users\gustavo colombelli\desktop\cchat\main.c
+	"conexao.h"
+
+1519528447 source:c:\users\gustavo colombelli\desktop\cchat\cchat\main.c
+	"conexao.h"
+	"view.h"
+
+1519528530 c:\users\gustavo colombelli\desktop\cchat\cchat\conexao.h
+	<stdio.h>
+	<windows.h>
+	<winsock2.h>
+	<mysql.h>
+
+1519527845 source:c:\users\gustavo colombelli\desktop\cchat\cchat\conexao.c
+	"conexao.h"
+	"view.h"
+
+1519526469 source:c:\users\gustavo colombelli\desktop\cchat\cchat\view.c
+	"view.h"
+
+1519525576 c:\users\gustavo colombelli\desktop\cchat\cchat\view.h
+	<stdio.h>
+
