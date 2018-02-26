@@ -43,3 +43,23 @@
 1519525576 c:\users\gustavo colombelli\desktop\cchat\cchat\view.h
 	<stdio.h>
 
+1519670982 source:c:\users\alexandre vessoni\desktop\projeto\cchat\conexao.c
+	"conexao.h"
+	"view.h"
+
+1519670516 c:\users\alexandre vessoni\desktop\projeto\cchat\conexao.h
+	<stdio.h>
+	<windows.h>
+	<winsock2.h>
+	<mysql.h>
+
+1519651348 c:\users\alexandre vessoni\desktop\projeto\cchat\view.h
+	<stdio.h>
+
+1519671180 source:c:\users\alexandre vessoni\desktop\projeto\cchat\main.c
+	"conexao.h"
+	"view.h"
+
+1519669600 source:c:\users\alexandre vessoni\desktop\projeto\cchat\view.c
+	"view.h"
+

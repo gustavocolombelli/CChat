@@ -29,7 +29,7 @@ void info(int codigoInfo){
         case 2: printf("\nConexao ao banco realizada com sucesso!\n");
         break;
 
-        case 3: printf("a");
+        case 3: printf("\nMensagem enviada com sucesso");
         break;
 
         default: erro(-1);
@@ -39,6 +39,6 @@ void info(int codigoInfo){
 
 void vMenuInicial(){
     printf("1 - Criar uma Sala\n");
-    printf("2 - Conectar a uma Sala\n");
-    printf("3 - Sala Padrao\n");
+    printf("2 - Mostrar Salas\n");
+    printf("3 - Conectar a uma Sala\n");
 }
