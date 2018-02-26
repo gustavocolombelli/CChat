@@ -9,7 +9,6 @@
     MYSQL conexao;
     char usuario[40];
 
-    //void finish_with_error(MYSQL *con);
     void criaTabelaChat();
     void criaSalaChat();
     int conecta(char * host, char * usuario, char * senha, char * banco);
@@ -17,4 +16,5 @@
     void mostrarSalas();
     void telaDeMensagens(int cod_sala_escolhida);
     void nomeSala(int cod_sala_escolhida);
+
 #endif

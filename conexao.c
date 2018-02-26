@@ -78,11 +78,6 @@ void telaDeMensagens(int cod_sala_escolhida){
         printf("%s | %s >> %s\n", row[2], row[0], row[1] );
 
     }
-
-    /*
-    strcpy(data, row[2]);
-    printf("\n\n---%s\n\n", data);
-    */
 }
 
 void nomeSala(int cod_sala_escolhida){
