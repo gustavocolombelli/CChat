@@ -47,7 +47,7 @@
 	"conexao.h"
 	"view.h"
 
-1519670516 c:\users\alexandre vessoni\desktop\projeto\cchat\conexao.h
+1519674105 c:\users\alexandre vessoni\desktop\projeto\cchat\conexao.h
 	<stdio.h>
 	<windows.h>
 	<winsock2.h>
